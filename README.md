@@ -60,9 +60,16 @@ Emergence, nonlinear dynamics, power laws, networks, and agent-based modeling.
 - [MIT 18.03: Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) - Prerequisite for dynamical systems.
 - [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) - Network analysis and graph neural networks.
 
+## Additional Resources
+
+- [Steven Strogatz's Nonlinear Dynamics Lectures (Cornell)](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) - Strogatz's own lecture series accompanying his textbook. Some of the best science lectures on YouTube.
+- [Complexity and the Economy - W. Brian Arthur](https://global.oup.com/academic/product/complexity-and-the-economy-9780199334292) - Collected essays by the pioneer of complexity economics at Santa Fe, on increasing returns, path dependence, and agent-based models.
+- [An Introduction to Agent-Based Modeling - Wilensky & Rand](https://mitpress.mit.edu/9780262731898/an-introduction-to-agent-based-modeling/) - Comprehensive ABM textbook using NetLogo covering emergence, self-organization, and applications across disciplines.
+- [Hidden Order: How Adaptation Builds Complexity - John Holland](https://www.basicbooks.com/titles/john-holland/hidden-order/9780201442304/) - Holland's accessible introduction to complex adaptive systems, genetic algorithms, and emergent order.
+
 ## Connections
 
-- **Economics**: Market crashes, herding behavior, complex adaptive markets
-- **Biology**: Ecosystems, evolution, gene regulatory networks
-- **Fat tails**: Power laws, extreme events, self-organized criticality
-- **Distributed systems**: Emergent behavior, cascading failures, network resilience
+- **[Economics](https://github.com/unbalancedparentheses/learning_economics)**: Market crashes, herding behavior, complex adaptive markets
+- **[Biology](https://github.com/unbalancedparentheses/learning_biology)**: Ecosystems, evolution, gene regulatory networks
+- **[Fat tails](https://github.com/unbalancedparentheses/learning_leptokurtic)**: Power laws, extreme events, self-organized criticality
+- **[Distributed systems](https://github.com/unbalancedparentheses/learning_systems_and_security)**: Emergent behavior, cascading failures, network resilience
